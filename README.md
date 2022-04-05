@@ -1,4 +1,3 @@
-# Who am i?
 Hi i'm just an average guy who interested coding nice to meet ya
 <!---
 Siv3rn/Siv3rn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
