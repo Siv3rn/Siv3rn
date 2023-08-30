@@ -1,4 +1,4 @@
-Hi i'm just useless guy and
+Hi i'm just guy and
 <h1>A Student who like to cope</h1>
 <!---
 Siv3rn/Siv3rn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
