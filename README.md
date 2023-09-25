@@ -21,7 +21,7 @@ href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="htt
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siv3rn&show_icons=true&locale=en&layout=compact" alt="siv3rn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siv3rn&show_icons=true&theme=tokyonight&locale=en" alt="siv3rn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siv3rn&show_icons=true&locale=en" alt="siv3rn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siv3rn&" alt="siv3rn" /></p>
 
