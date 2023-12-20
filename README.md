@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivern</h1>
+<h1 align="center">Hi 👋, I'm Anggito Wicaksono(Sivern)</h1>
 <h3 align="center">A Game Developer Wannabe</h3>
 
 - 🔭 I’m currently working on **Midnight Market Project**
